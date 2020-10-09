@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BlueScreenKotlin</string>
+    <string name="title_activity_nav">NavActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="API_KEY">2c1c7b0fc68324519eec9863917f05e2</string>
+</resources>
